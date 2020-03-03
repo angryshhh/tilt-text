@@ -1,0 +1,25 @@
+{
+  "name": "tilt-text",
+  "version": "0.0.10",
+  "description": "to tilt text",
+  "module": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angryshhh/tilt-text.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angryshhh/tilt-text/issues"
+  },
+  "homepage": "https://github.com/angryshhh/tilt-text#readme",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {}
+}
